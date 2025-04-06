@@ -1,3 +1,7 @@
  This is amity university bengaluru
 
  in India.
+
+ C program 
+
+ #include <stdio.h>
